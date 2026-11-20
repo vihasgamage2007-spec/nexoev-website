@@ -1,3 +1,4 @@
+// Core Contribution by Ganith Gunasekara (QA and Testing) — Empirical Accuracy Validation Suite & Driver Protection Benefits
 import { useState } from 'react';
 import SectionHeading from '../components/SectionHeading.jsx';
 import FAQItem from '../components/FAQItem.jsx';
