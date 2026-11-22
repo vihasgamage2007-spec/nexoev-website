@@ -1,3 +1,4 @@
+// Core Contribution by Yehen Silva (Project Manager and Developer) — Hero Showcase, Video Player & Institutional Validation
 import { Calendar } from 'lucide-react';
 import Button from '../components/Button.jsx';
 import PhoneMockup from '../components/PhoneMockup.jsx';
