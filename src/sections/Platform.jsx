@@ -1,3 +1,4 @@
+// Core Contribution by Sansitha Mayadunna (Research and Developer) — 3-Stage Physics Range Engine & Highland Hazard Matrix
 import { useState } from 'react';
 import {
   Cpu,
