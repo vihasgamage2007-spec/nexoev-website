@@ -1,45 +1,34 @@
-# NexoEV Project Copy — Yehen Silva (Project Manager and Developer)
+# NexoEV Project Copy — Sansitha Mayadunna (Research and Developer)
 
-This is a dedicated, self-contained project copy configured for **Yehen Silva**.
+This is a dedicated, self-contained project copy configured for **Sansitha Mayadunna**.
 It contains the **100% complete, fully working published version** of NexoEV.
 
 ---
 
 ## 👤 Member Information
-- **Full Name:** Yehen Silva
-- **Project Role:** Project Manager and Developer
-- **GitHub Username:** [YehenSilva](https://github.com/YehenSilva)
-- **Git Commit Email:** `Yehensilva@gmail.com`
-- **Assigned Git Branch:** `yehen`
+- **Full Name:** Sansitha Mayadunna
+- **Project Role:** Research and Developer
+- **GitHub Username:** [V-San07](https://github.com/V-San07)
+- **Git Commit Email:** `sansitham07@gmail.com`
+- **Assigned Git Branch:** `sansitha`
 
 ---
 
 ## 🚀 Assigned Feature & Contribution
-**Module Focus:** Project Architecture, Hero Showcase, Video Showcase Player, How It Works (4-Step Sprints), Institutional Validation Logos, About Page, and Waitlist CTA (FR27, FR29)
+**Module Focus:** 3-Stage Physics Range Engine, Elevation Profile, Central Highland Hazard Intelligence, and Feasibility Verdicts (FR1, FR2, FR11, FR12)
 
-### Key Files & Components Developed by Yehen Silva:
-- `src/sections/Hero.jsx`
-- `src/styles/Hero.css`
-- `src/sections/VideoShowcase.jsx`
-- `src/styles/VideoShowcase.css`
-- `src/sections/HowItWorks.jsx`
-- `src/styles/HowItWorks.css`
-- `src/components/ValidatedBy.jsx`
-- `src/styles/ValidatedBy.css`
-- `src/pages/AboutPage.jsx`
-- `src/styles/AboutPage.css`
-- `src/sections/About.jsx`
-- `src/sections/About.css`
-- `src/sections/WaitlistCTA.jsx`
-- `src/styles/WaitlistCTA.css`
-- `src/data/team.js`
-- `src/App.jsx`
+### Key Files & Components Developed by Sansitha Mayadunna:
+- `src/sections/Platform.jsx`
+- `src/styles/Platform.css`
+- `src/components/PhoneMockup.jsx`
+- `src/styles/PhoneMockup.css`
+- `src/components/AppScreens.jsx`
 
 ### Key Talking Points for Viva & Presentation:
-- Led overall project architecture, agile sprint coordination, and seamless full-stack system integration.
-- Engineered dynamic Hero value proposition banner and high-definition video player showcase with custom playback telemetry.
-- Designed institutional validation showcase with transparent, dual-mode logo marquee for IIT, Westminster, and ATP.
-- Built dedicated About Team page featuring engineering vision, project pillars, and member social profiles.
+- Formulated the 3-Stage Range Engine: Baseline Manufacturer Energy, Trip-History Multiplier k, and Contextual Elevation/HVAC Physics.
+- Modeled Central Highland corridors (Kadugannawa, Ramboda Pass, Nuwara Eliya, Ella) with NBRO landslide hazard alert matching.
+- Engineered 3-Tier Feasibility Verdicts (Likely Feasible, Caution, Stop Recommended) with customizable arrival battery buffers.
+- Evaluated real-world route datasets achieving 97.7% empirical arrival battery accuracy.
 
 ---
 
@@ -57,17 +46,17 @@ npm run build
 ---
 
 ## 📤 How to Push Your Commits to GitHub
-This directory is pre-configured with your Git author identity (`user.name` and `user.email`) and branch `yehen`.
+This directory is pre-configured with your Git author identity (`user.name` and `user.email`) and branch `sansitha`.
 
 To publish your branch and commits to the GitHub repository:
 
 ```bash
-git push -u origin yehen
+git push -u origin sansitha
 ```
 
 ### Creating a Pull Request on GitHub:
 1. Open the repository on GitHub: [https://github.com/vihasgamage2007-spec/nexoev-website](https://github.com/vihasgamage2007-spec/nexoev-website)
-2. You will see a banner: `"yehen had recent pushes - Compare & pull request"`. Click **Compare & pull request**.
+2. You will see a banner: `"sansitha had recent pushes - Compare & pull request"`. Click **Compare & pull request**.
 3. Set the base branch to `master` and title your PR:
-   `feat(core): implement Hero showcase, video player, institutional partners, and team page`
-4. Submit the PR. The GitHub contribution graph will record your commits under your profile ([@YehenSilva](https://github.com/YehenSilva))!
+   `feat(platform): implement 3-stage physics range estimation & central highland hazard intelligence`
+4. Submit the PR. The GitHub contribution graph will record your commits under your profile ([@V-San07](https://github.com/V-San07))!
