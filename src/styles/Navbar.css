@@ -4,6 +4,7 @@
 .nav__links{display:flex;gap:34px}
 .nav__links a:not(.btn){font-weight:500;font-size:15px;transition:color .2s}
 .nav__links a:not(.btn):hover{color:var(--lime2)}
+.nav__mobile-actions{display:none}
 .nav__cta-mobile{display:none}
 .nav__right{display:flex;align-items:center;gap:10px}
 .nav__burger{display:none;width:44px;height:44px;border:1px solid var(--bd);border-radius:12px;background:#fff;cursor:pointer;place-items:center}
@@ -12,5 +13,6 @@
   .nav__links{position:absolute;top:70px;left:0;right:0;flex-direction:column;gap:0;background:#fff;border-bottom:1px solid var(--bd);padding:8px 24px 22px;display:none}
   .nav__links.is-open{display:flex}
   .nav__links a:not(.btn){padding:14px 0;border-bottom:1px solid var(--bd)}
-  .nav__cta-mobile{display:inline-flex;margin-top:16px}
+  .nav__mobile-actions{display:flex;flex-direction:column;gap:10px;margin-top:16px}
+  .nav__mobile-actions .nav__cta-mobile{display:inline-flex;margin-top:0}
 }
