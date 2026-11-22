@@ -1,37 +1,34 @@
-# NexoEV Project Copy — Udew Bimsara (Backend Developer)
+# NexoEV Project Copy — Sansitha Mayadunna (Research and Developer)
 
-This is a dedicated, self-contained project copy configured for **Udew Bimsara**.
+This is a dedicated, self-contained project copy configured for **Sansitha Mayadunna**.
 It contains the **100% complete, fully working published version** of NexoEV.
 
 ---
 
 ## 👤 Member Information
-- **Full Name:** Udew Bimsara
-- **Project Role:** Backend Developer
-- **GitHub Username:** [udewbimsara](https://github.com/udewbimsara)
-- **Git Commit Email:** `udewbimsara@gmail.com`
-- **Assigned Git Branch:** `udew`
+- **Full Name:** Sansitha Mayadunna
+- **Project Role:** Research and Developer
+- **GitHub Username:** [V-San07](https://github.com/V-San07)
+- **Git Commit Email:** `sansitham07@gmail.com`
+- **Assigned Git Branch:** `sansitha`
 
 ---
 
 ## 🚀 Assigned Feature & Contribution
-**Module Focus:** Walkthrough Meeting Request Modal, Formspree API Gateway, Contact Form, Accessible Dropdown, and Backend Config (FR28, FR30)
+**Module Focus:** 3-Stage Physics Range Engine, Elevation Profile, Central Highland Hazard Intelligence, and Feasibility Verdicts (FR1, FR2, FR11, FR12)
 
-### Key Files & Components Developed by Udew Bimsara:
-- `src/components/WalkthroughModal.jsx`
-- `src/styles/WalkthroughModal.css`
-- `src/sections/Contact.jsx`
-- `src/styles/Contact.css`
-- `src/components/CustomDropdown.jsx`
-- `src/styles/CustomDropdown.css`
-- `src/config.js`
-- `.env.example`
+### Key Files & Components Developed by Sansitha Mayadunna:
+- `src/sections/Platform.jsx`
+- `src/styles/Platform.css`
+- `src/components/PhoneMockup.jsx`
+- `src/styles/PhoneMockup.css`
+- `src/components/AppScreens.jsx`
 
 ### Key Talking Points for Viva & Presentation:
-- Engineered interactive 1-on-1 Walkthrough & Demo Meeting request modal with session focus selection and anti-spam honeypot.
-- Integrated Formspree REST API gateway for automated meeting dispatch and contact inquiries to nexoev12@gmail.com.
-- Built accessible custom dropdown component with keyboard navigation, focus trap, and ARIA attributes.
-- Configured backend environment variables, Formspree endpoint management, and external service fallbacks.
+- Formulated the 3-Stage Range Engine: Baseline Manufacturer Energy, Trip-History Multiplier k, and Contextual Elevation/HVAC Physics.
+- Modeled Central Highland corridors (Kadugannawa, Ramboda Pass, Nuwara Eliya, Ella) with NBRO landslide hazard alert matching.
+- Engineered 3-Tier Feasibility Verdicts (Likely Feasible, Caution, Stop Recommended) with customizable arrival battery buffers.
+- Evaluated real-world route datasets achieving 97.7% empirical arrival battery accuracy.
 
 ---
 
@@ -49,17 +46,17 @@ npm run build
 ---
 
 ## 📤 How to Push Your Commits to GitHub
-This directory is pre-configured with your Git author identity (`user.name` and `user.email`) and branch `udew`.
+This directory is pre-configured with your Git author identity (`user.name` and `user.email`) and branch `sansitha`.
 
 To publish your branch and commits to the GitHub repository:
 
 ```bash
-git push -u origin udew
+git push -u origin sansitha
 ```
 
 ### Creating a Pull Request on GitHub:
 1. Open the repository on GitHub: [https://github.com/vihasgamage2007-spec/nexoev-website](https://github.com/vihasgamage2007-spec/nexoev-website)
-2. You will see a banner: `"udew had recent pushes - Compare & pull request"`. Click **Compare & pull request**.
+2. You will see a banner: `"sansitha had recent pushes - Compare & pull request"`. Click **Compare & pull request**.
 3. Set the base branch to `master` and title your PR:
-   `feat(backend): add walkthrough meeting booking modal & Formspree contact API integration`
-4. Submit the PR. The GitHub contribution graph will record your commits under your profile ([@udewbimsara](https://github.com/udewbimsara))!
+   `feat(platform): implement 3-stage physics range estimation & central highland hazard intelligence`
+4. Submit the PR. The GitHub contribution graph will record your commits under your profile ([@V-San07](https://github.com/V-San07))!
