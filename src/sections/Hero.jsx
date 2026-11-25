@@ -33,6 +33,7 @@ export default function Hero({ onOpenWalkthrough }) {
             </Button>
           </div>
         </div>
+        
         <div className="hero__visual">
           <div className="hero__glow" />
           <CarIllustration className="hero__car" />
