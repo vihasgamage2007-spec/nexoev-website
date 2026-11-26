@@ -1,27 +1,13 @@
-# Dependencies
 node_modules/
-
-# Build output
 dist/
 dist-ssr/
-
-# Environment files (keep the example)
 .env
 .env.*
 !.env.example
-
-# Logs
 *.log
-npm-debug.log*
-
-# Editors / IDEs
 .idea/
 .vscode/*
 !.vscode/extensions.json
-
-# OS files
 .DS_Store
 Thumbs.db
-
-# Vercel
 .vercel

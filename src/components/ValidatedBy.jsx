@@ -62,14 +62,7 @@ export default function ValidatedBy({ embedded = false, className = '' }) {
 
   const content = (
     <Reveal className={`validated-by__card ${embedded ? 'validated-by--embedded' : ''}`}>
-      <div className="validated-by__header">
-        <span className="validated-by__label">
-          <span className="validated-by__label-dot" />
-          Validated and Supported by
-        </span>
-      </div>
-
-      <div className="validated-by__marquee-wrapper" tabIndex={0} aria-label="Partner institutions carousel, hover to pause and view colors">
+      <div className="validated-by__marquee-wrapper" tabIndex={0} aria-label="Affiliated institutions carousel, hover to pause and view colors">
         <div className="validated-by__track">
           {MARQUEE_ITEMS.map((partner) => {
             const isExternal = partner.href.startsWith('http');
@@ -120,7 +113,7 @@ export default function ValidatedBy({ embedded = false, className = '' }) {
   }
 
   return (
-    <section className={`validated-by ${className}`} aria-label="Validated and Supported by">
+    <section className={`validated-by ${className}`} aria-label="Affiliated institutions">
       <div className="container">
         {content}
       </div>
